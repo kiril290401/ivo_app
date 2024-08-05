@@ -47,7 +47,7 @@ const Navbar = () => {
               <div className="flex items-center">
                 <a
                   className="relative group inline-block py-3 px-4 text-lg font-semibold text-color_principal hover:bg-white hover:text-white border-2 border-color_principal rounded-md overflow-hidden transition duration-300"
-                  href="tel:${+359 0898 77 34 50}"
+                  href="tel:${+359898773450}"
                 >
                   <div className="absolute top-0 right-full w-full h-full bg-color_principal transform group-hover:translate-x-full group-hover:scale-102 transition duration-500"></div>
                   <span className="relative font-extrabold">Обади се!</span>

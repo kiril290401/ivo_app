@@ -13,7 +13,7 @@ const Contact = () => {
           <div className="grid gap-3 items-center justify-center">
             <p>
               Телефон:{" "}
-              <a className="text-2xl font-medium" href="tel:+3580898773450">
+              <a className="text-2xl font-medium" href="tel:+359898773450">
                 <br />0898773450
 
               </a>

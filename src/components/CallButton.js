@@ -3,7 +3,7 @@ import React from "react";
 const CallButton = () => {
   return (
     <a
-      href="tel:+3580898773450"
+      href="tel:+359898773450"
       className="fixed bottom-4 left-4 z-50 bg-green-500 text-white p-4 rounded-full shadow-lg animate-bounce"
       style={{ animation: "bounce 2s infinite" }}
     >
