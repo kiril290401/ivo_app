@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://putnapomosht-provadia.bg
+Host: https://putna-pomosht-provadia.bg
 
 # Sitemaps
-Sitemap: https://putnapomosht-provadia.bg/sitemap.xml
+Sitemap: https://putna-pomosht-provadia.bg/sitemap.xml

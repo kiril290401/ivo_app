@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: "https://putnapomosht-provadia.bg",
+  siteUrl: "https://putna-pomosht-provadia.bg",
   generateRobotsTxt: true,
 };
