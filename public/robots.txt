@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://putnapomosht-provadia.bg
+
+# Sitemaps
+Sitemap: https://putnapomosht-provadia.bg/sitemap.xml
