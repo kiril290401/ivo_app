@@ -48,6 +48,7 @@ const Navbar = () => {
                 <a
                   className="relative group inline-block py-3 px-4 text-lg font-semibold text-color_principal hover:bg-white hover:text-white border-2 border-color_principal rounded-md overflow-hidden transition duration-300"
                   href="tel:${+359898773450}"
+                  target="_blank"
                 >
                   <div className="absolute top-0 right-full w-full h-full bg-color_principal transform group-hover:translate-x-full group-hover:scale-102 transition duration-500"></div>
                   <span className="relative font-extrabold">Обади се!</span>
@@ -127,7 +128,7 @@ const Navbar = () => {
               Контакти
             </a>
             <div className="flex gap-5 mt-3 py-4 items-center justify-center lg:items-start lg:justify-start">
-                  <a href="https://www.instagram.com/road.assistancetodorov?igsh=MTl3dWd1aDEzZXFn" className="w-10 h-10 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover">
+                  <a href="https://www.instagram.com/road.assistancetodorov?igsh=MTl3dWd1aDEzZXFn" target="_blank" className="w-10 h-10 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover">
                     <Image
                       src="/Image/icon_instagram.png"
                       alt="Logo"
@@ -135,7 +136,7 @@ const Navbar = () => {
                       height={25}
                     />
                   </a>
-                  <a href="https://www.facebook.com/todorov.p.tna.pomos.provadia" className="w-10 h-10 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover">
+                  <a href="https://www.facebook.com/todorov.p.tna.pomos.provadia" target="_blank" className="w-10 h-10 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover">
                     <Image
                       src="/Image/icon_facebook.png"
                       alt="Logo"

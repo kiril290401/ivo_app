@@ -13,14 +13,14 @@ const Contact = () => {
           <div className="grid gap-3 items-center justify-center">
             <p>
               Телефон:{" "}
-              <a className="text-2xl font-medium" href="tel:+359898773450">
+              <a className="text-2xl font-medium" href="tel:+359898773450" target="_blank">
                 <br />0898773450
 
               </a>
             </p>
             <p>
               Имейл:{" "}
-              <a className="text-2xl font-medium" href="mailto:todorov909090@abv.bg">
+              <a className="text-2xl font-medium" href="mailto:todorov909090@abv.bg" target="_blank">
                 <br />todorov909090@abv.bg
               </a>
             </p>
@@ -28,7 +28,7 @@ const Contact = () => {
               <p>Социални мрежи:</p>
               <div className="">
                 <div className="flex gap-5 mt-3 items-center justify-center lg:items-start lg:justify-start">
-                  <a href="https://www.instagram.com/road.assistancetodorov?igsh=MTl3dWd1aDEzZXFn" className="w-14 h-14 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover">
+                  <a href="https://www.instagram.com/road.assistancetodorov?igsh=MTl3dWd1aDEzZXFn" className="w-14 h-14 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover" target="_blank" >
                     <Image
                       src="/Image/icon_instagram.png"
                       alt="Logo"
@@ -36,7 +36,7 @@ const Contact = () => {
                       height={40}
                     />
                   </a>
-                  <a href="https://www.facebook.com/todorov.p.tna.pomos.provadia" className="w-14 h-14 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover">
+                  <a href="https://www.facebook.com/todorov.p.tna.pomos.provadia" className="w-14 h-14 bg-color_principal flex justify-center items-center transition duration-200 hover:bg-color_principal-hover" target="_blank">
                     <Image
                       src="/Image/icon_facebook.png"
                       alt="Logo"
